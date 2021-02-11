@@ -1,0 +1,24 @@
+{
+    "shortid": "rkJTnK2ce",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "Sy5S19ncg"
+    },
+    "name": "myTemplate",
+    "chrome": {
+        "printBackground": true,
+        "marginTop": "1cm",
+        "marginRight": "1cm",
+        "marginBottom": "1cm",
+        "marginLeft": "1cm"
+    },
+    "creationDate": {
+        "$$date": 1613050061022
+    },
+    "modificationDate": {
+        "$$date": 1613050085505
+    },
+    "_id": "cAH9Y5OC3JOduu2V",
+    "$entitySet": "templates"
+}
