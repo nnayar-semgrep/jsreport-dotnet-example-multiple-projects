@@ -1,2 +1,4 @@
 # jsreport-dotnet-example-multiple-projects
-Example using jsreport sdk where templates are stored in separate project.
+
+Example of running [local jsreport](https://jsreport.net/learn/dotnet-local) in .net core application
+where the templates are defined in a separate project and referenced.
