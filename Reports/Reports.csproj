@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="jsreport.Binary" Version="3.8.0" />
-    <PackageReference Include="jsreport.Local" Version="3.8.0" />
+    <PackageReference Include="jsreport.Local" Version="3.8.1" />
   </ItemGroup>
 
   <ItemGroup>
